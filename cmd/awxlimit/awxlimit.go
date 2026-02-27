@@ -1,11 +1,12 @@
 package main
 
 import (
-	awxlimit "awxlimit/pkg/awxlimit"
 	"encoding/json"
 	"flag"
 	"fmt"
 	"os"
+
+	awxlimit "github.com/Ramoreik/awxlimit/pkg/awxlimit"
 )
 
 func main() {
